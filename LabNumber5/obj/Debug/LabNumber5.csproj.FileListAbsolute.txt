@@ -1,0 +1,7 @@
+C:\Users\Grand Circus Student\source\repos\LabNumber5\LabNumber5\bin\Debug\LabNumber5.exe.config
+C:\Users\Grand Circus Student\source\repos\LabNumber5\LabNumber5\bin\Debug\LabNumber5.exe
+C:\Users\Grand Circus Student\source\repos\LabNumber5\LabNumber5\bin\Debug\LabNumber5.pdb
+C:\Users\Grand Circus Student\source\repos\LabNumber5\LabNumber5\obj\Debug\LabNumber5.csprojResolveAssemblyReference.cache
+C:\Users\Grand Circus Student\source\repos\LabNumber5\LabNumber5\obj\Debug\LabNumber5.csproj.CoreCompileInputs.cache
+C:\Users\Grand Circus Student\source\repos\LabNumber5\LabNumber5\obj\Debug\LabNumber5.exe
+C:\Users\Grand Circus Student\source\repos\LabNumber5\LabNumber5\obj\Debug\LabNumber5.pdb
