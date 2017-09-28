@@ -31,7 +31,7 @@ namespace LabNumber5
             else
             {
                 Console.WriteLine("No fun! See ya later!");
-
+                return;
             }
 
             while (RollAgain==true)
